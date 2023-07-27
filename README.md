@@ -1,4 +1,4 @@
-### 👋　Hi there! ・ こんにちは！ ・ 你好！
+### 👋　Hi there ・ こんにちは ・ 你好
 
 <!--
 **maruk0chan/maruk0chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Python: [backtesting](https://kernc.github.io/backtesting.py/) and [machine lear
 C++: Coding in [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](https://www.metatrader5.com/)
 - 🧗 Challenging myself to explore Native App Development ([Swift](https://developer.apple.com/swift/)) and Backend Development ([Node.js](https://nodejs.org/en) or [Go](https://go.dev/))
 
-### About me 👱🏼‍♂️:
+### 👱🏼‍♂️ About me:
 - 🚹 Marco(English nickname) + Chan(Chinese Surname 陳) = **maruk0chan** (Japanese)
 - 🇭🇰 From Hong Kong
 - 🇯🇵 Currently staying in Tokyo
