@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Working in web frontend development\
-(mainly web applications for database searching UI and data visualisation [D3](https://d3js.org/))
+- 🔭 Currently working on\
+[Refex2](https://www.refex2.dbcls.jp/)\
+[PrecisionMD-DB](https://precisionmd-db.med.kyoto-u.ac.jp/dev/)
+
+-  Knowledge in web frontend development (mainly web applications for database searching UI and data visualisation [D3](https://d3js.org/))
 - Have experience in tools like [Next(React)](https://nextjs.org/), [Nuxt(Vue)](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/), [TypeScript](https://www.typescriptlang.org/) and other related tools.
 - 🌱 Learning [Python](https://www.python.org/) and [C++](https://isocpp.org/)\
 Python: [backtesting](https://kernc.github.io/backtesting.py/) and [machine learning](https://scikit-learn.org/stable/) for investing in financial markets 📈\
