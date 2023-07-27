@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Working in web frontend development\
-(mainly web applications for database searching UI and data visualisation)
+(mainly web applications for database searching UI and data visualisation [D3](https://d3js.org/))
 - Have experience in tools like [Next(React)](https://nextjs.org/), [Nuxt(Vue)](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/), [TypeScript](https://www.typescriptlang.org/) and other related tools.
-- 🌱 Learning Python and C++\
-[Python](https://www.python.org/): [backtesting](https://kernc.github.io/backtesting.py/) and [machine learning](https://scikit-learn.org/stable/) for investing in financial markets 📈\
-[C++](https://isocpp.org/): Coding [MQL5](https://www.mql5.com/en), a programming language used in a popular trading software [MetaTrade5](https://www.metatrader5.com/)
+- 🌱 Learning [Python](https://www.python.org/) and [C++](https://isocpp.org/)\
+Python: [backtesting](https://kernc.github.io/backtesting.py/) and [machine learning](https://scikit-learn.org/stable/) for investing in financial markets 📈\
+C++: Coding in [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](https://www.metatrader5.com/)
+- 🧗 Challenging myself to explore Native App Development ([Swift](https://developer.apple.com/swift/)) and Backend Development ([Node.js](https://nodejs.org/en) or [Go](https://go.dev/))
 
 ### About me 👱🏼‍♂️:
 - 🚹 Marco(English nickname) + Chan(Chinese Surname 陳) = **maruk0chan** (Japanese)
