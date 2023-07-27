@@ -1,4 +1,4 @@
-### 👋　Hi there ・ こんにちは ・ 你好
+### 👋 Hi there ・ こんにちは ・ 你好
 
 <!--
 **maruk0chan/maruk0chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
