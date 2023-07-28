@@ -34,4 +34,4 @@ C++: Coding in [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](
 - 🏦 Worked in a retail bank for a few years back in Hong Kong
 - 🗣️ Interested in linguistic (Cantonese, English, Japanese, Mandarin)
 - 😄 Learn programming for fun (especially task automation and scripts)
-- 💻 Prefer keyboard only without using a mouse 🖱️
+- 💻 Keyboard guy (can't live without tools like [Alfred](https://www.alfredapp.com/), [BetterTouchTool](https://folivora.ai/), [Keyboard Maestro](https://www.keyboardmaestro.com/main/), [Raycast](https://www.raycast.com/))
