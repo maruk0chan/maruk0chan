@@ -33,7 +33,7 @@ C++: Coding in [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](
 - 💲 Major in Finance
 - 🗣️ Interested in linguistic (Cantonese, English, Japanese, Mandarin)
 - 😄 Learn programming for fun (especially task automation and scripts)
-- 💻 Keyboard guy (can't live without tools like [Alfred](https://www.alfredapp.com/), [BetterTouchTool](https://folivora.ai/), [Keyboard Maestro](https://www.keyboardmaestro.com/main/), [Raycast](https://www.raycast.com/))
+- 💻 Keyboard guy (my favorite tools: [Alfred](https://www.alfredapp.com/), [BetterTouchTool](https://folivora.ai/), [Keyboard Maestro](https://www.keyboardmaestro.com/main/), [Raycast](https://www.raycast.com/))
 
 ## 💪🏻 Work Exp:
 ### 🇭🇰 Hong Kong
