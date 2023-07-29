@@ -1,20 +1,4 @@
 ## 👋 Hi there ・ こんにちは ・ 你好
-
-<!--
-**maruk0chan/maruk0chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🔭 Currently working on [Refex2](https://www.refex2.dbcls.jp/) and [PrecisionMD-DB](https://precisionmd-db.med.kyoto-u.ac.jp/dev/)
 
 - Knowledge in database searching UI and data visualisation ([D3](https://d3js.org/))
@@ -26,14 +10,13 @@ C++: [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](https://ww
 
 ## 👱🏼‍♂️ Who am I?
 - 🚹 *Marco* (English) + *Chan* (Chinese 陳) = **maruk0chan** (Japanese)
-- 🇭🇰 From Hong Kong
-- 🇯🇵 Currently staying in Tokyo
+- 🇭🇰 From Hong Kong (currently staying in Tokyo 🇯🇵)
 - 💲 Major in Finance
 - 🗣️ Interested in linguistic (Cantonese, English, Japanese, Mandarin)
 - 😄 Learn programming for fun (especially task automation and scripts)
 - 💻 Keyboard guy (my favorite tools: [Alfred](https://www.alfredapp.com/), [BetterTouchTool](https://folivora.ai/), [Keyboard Maestro](https://www.keyboardmaestro.com/main/), [Raycast](https://www.raycast.com/))
 
-## 💪🏻 Work Exp:
+## 💪🏻 Work Experience
 ### 🇭🇰 Hong Kong
 - 🏦 Retail Bank Customer Service Officer 2.5 yrs
 
