@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Experienced in tools like [Next(React)](https://nextjs.org/), [Nuxt(Vue)](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/), [TypeScript](https://www.typescriptlang.org/) and other related tools.
 - 🌱 Learning [Python](https://www.python.org/) and [C++](https://isocpp.org/)\
 Python: [backtesting](https://kernc.github.io/backtesting.py/) and [machine learning](https://scikit-learn.org/stable/) for investing in financial markets 📈\
-C++: Coding in [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](https://www.metatrader5.com/)
+C++: Coding in [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](https://www.metatrader5.com/) (See [metatrade5-ea](https://github.com/maruk0chan/metatrade5-ea) repo)
 - 🧗 Challenging myself to explore Native App Development ([Swift](https://developer.apple.com/swift/)) and Backend Development ([Node.js](https://nodejs.org/en) or [Go](https://go.dev/))
 
 ## 👱🏼‍♂️ Who am I?
