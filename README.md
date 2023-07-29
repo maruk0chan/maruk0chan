@@ -1,6 +1,5 @@
 ## 👋 Hi there ・ こんにちは ・ 你好
 - 🔭 Currently working on [Refex2](https://www.refex2.dbcls.jp/) and [PrecisionMD-DB](https://precisionmd-db.med.kyoto-u.ac.jp/dev/)
-
 - Knowledge in database searching UI and data visualisation ([D3](https://d3js.org/))
 - Experienced in tools like [Next(React)](https://nextjs.org/), [Nuxt(Vue)](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/), [TypeScript](https://www.typescriptlang.org/), [Astro](https://astro.build/) ...
 - 🌱 Learning [Python](https://www.python.org/) and [C++](https://isocpp.org/)\
