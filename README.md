@@ -15,19 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Currently working on\
-[Refex2](https://www.refex2.dbcls.jp/)\
-[PrecisionMD-DB](https://precisionmd-db.med.kyoto-u.ac.jp/dev/)
+- 🔭 Currently working on [Refex2](https://www.refex2.dbcls.jp/) and [PrecisionMD-DB](https://precisionmd-db.med.kyoto-u.ac.jp/dev/)
 
-- Knowledge in web frontend development (mainly web applications for database searching UI and data visualisation [D3](https://d3js.org/))
-- Experienced in tools like [Next(React)](https://nextjs.org/), [Nuxt(Vue)](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/), [TypeScript](https://www.typescriptlang.org/) and other related tools.
+- Knowledge in database searching UI and data visualisation ([D3](https://d3js.org/))
+- Experienced in tools like [Next(React)](https://nextjs.org/), [Nuxt(Vue)](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/), [TypeScript](https://www.typescriptlang.org/), [Astro](https://astro.build/) ...
 - 🌱 Learning [Python](https://www.python.org/) and [C++](https://isocpp.org/)\
-Python: [backtesting](https://kernc.github.io/backtesting.py/) and [machine learning](https://scikit-learn.org/stable/) for investing in financial markets 📈\
-C++: Coding in [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](https://www.metatrader5.com/) (See [metatrade5-ea](https://github.com/maruk0chan/metatrade5-ea) repo)
-- 🧗 Challenging myself to explore Native App Development ([Swift](https://developer.apple.com/swift/)) and Backend Development ([Node.js](https://nodejs.org/en) or [Go](https://go.dev/))
+Python: [backtesting](https://kernc.github.io/backtesting.py/) and [machine learning](https://scikit-learn.org/stable/) in financial markets 📈\
+C++: [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](https://www.metatrader5.com/) (See [/metatrade5-ea](https://github.com/maruk0chan/metatrade5-ea))
+- 🧗 Wanna explore Native App Development ([Swift](https://developer.apple.com/swift/)) and [Backend Development](https://roadmap.sh/backend) ([Node.js](https://nodejs.org/en) or [Go](https://go.dev/))
 
 ## 👱🏼‍♂️ Who am I?
-- 🚹 Marco(English nickname) + Chan(Chinese Surname 陳) = **maruk0chan** (Japanese)
+- 🚹 *Marco* (English) + *Chan* (Chinese 陳) = **maruk0chan** (Japanese)
 - 🇭🇰 From Hong Kong
 - 🇯🇵 Currently staying in Tokyo
 - 💲 Major in Finance
@@ -37,9 +35,9 @@ C++: Coding in [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](
 
 ## 💪🏻 Work Exp:
 ### 🇭🇰 Hong Kong
-- 🏦 Retail bank 2.5 yrs
+- 🏦 Retail Bank Customer Service Officer 2.5 yrs
 
 ### 🇯🇵 Japan
-- 📞 Customer Service Centre 1 yr
-- 🦺 Audio/Visual and IT infrastructure 2.5 yrs
-- 👨‍💻 Web frontend engineer since 2022
+- 📞 Cloud Service Customer Service Center 1 yr
+- 🦺 Audio/Visual and IT infrastructure Consultant 2.5 yrs
+- 👨‍💻 Frontend Engineer since 2️⃣0️⃣2️⃣2️⃣
