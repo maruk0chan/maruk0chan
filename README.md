@@ -1,6 +1,7 @@
 ## 👋 Hi there ・ こんにちは ・ 你好
 - 🔭 Currently working on [Refex2](https://www.refex2.dbcls.jp/) and [PrecisionMD-DB](https://precisionmd-db.med.kyoto-u.ac.jp/dev/)
 - Knowledge in database searching UI and data visualisation ([D3](https://d3js.org/))
+- Training programming skills on LeetCode
 - 🌱 Learning [Python](https://www.python.org/) and [C++](https://isocpp.org/)\
 Python: [backtesting](https://kernc.github.io/backtesting.py/) and [machine learning](https://scikit-learn.org/stable/) in financial markets 📈\
 C++: [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](https://www.metatrader5.com/) (See [/metatrade5-ea](https://github.com/maruk0chan/metatrade5-ea))
