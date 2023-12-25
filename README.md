@@ -1,4 +1,5 @@
-[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruk0chan)](https://github.com/anuraghazra/github-readme-stats)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=maruk0chan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marco's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruk0chan&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 ## 👋 Hi there ・ こんにちは ・ 你好
 - 🔭 Currently working on [Refex2](https://www.refex2.dbcls.jp/) and [PrecisionMD-DB](https://precisionmd-db.med.kyoto-u.ac.jp/dev/)
