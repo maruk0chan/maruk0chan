@@ -1,3 +1,5 @@
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruk0chan)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 👋 Hi there ・ こんにちは ・ 你好
 - 🔭 Currently working on [Refex2](https://www.refex2.dbcls.jp/) and [PrecisionMD-DB](https://precisionmd-db.med.kyoto-u.ac.jp/dev/)
 - Knowledge in database searching UI and data visualisation ([D3](https://d3js.org/))
