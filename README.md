@@ -2,7 +2,8 @@
 | ------------- | ------------- |
 
 ## 👋 Hi there ・ こんにちは ・ 你好
-- 🔭 Currently working on [Refex2](https://www.refex2.dbcls.jp/) and [PrecisionMD-DB](https://precisionmd-db.med.kyoto-u.ac.jp/dev/)
+- 🔭 Currently working on a side-project as hobby (a [snooker scoreboard](https://www.youtube.com/live/Mrve3dqDDs0?si=iwGN4_AL98wBrb4-&t=6217) to be used in YouTube live streaming) 
+- Past projects: [Refex2](https://www.refex2.dbcls.jp/) and [PrecisionMD-DB](https://precisionmd-db.med.kyoto-u.ac.jp/dev/)
 - Knowledge in database searching UI and data visualisation ([D3](https://d3js.org/))
 - Training programming skills on LeetCode
 - 🌱 Learning [Python](https://www.python.org/) and [C++](https://isocpp.org/)\
