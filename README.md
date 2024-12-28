@@ -1,16 +1,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=maruk0chan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Marco's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruk0chan&layout=compact&theme=dark&hide_border=true" /> |
 | ------------- | ------------- |
 
-## 👋 Hi there ・ こんにちは ・ 你好
-- 🔭 Currently working on a side-project as hobby (a [snooker scoreboard](https://www.youtube.com/live/Mrve3dqDDs0?si=iwGN4_AL98wBrb4-&t=6217) to be used in YouTube live streaming) 
-- Past projects: [Refex2](https://www.refex2.dbcls.jp/) and [PrecisionMD-DB](https://precisionmd-db.med.kyoto-u.ac.jp/dev/)
-- Knowledge in database searching UI and data visualisation ([D3](https://d3js.org/))
-- Training programming skills on LeetCode
-- 🌱 Learning [Python](https://www.python.org/) and [C++](https://isocpp.org/)\
-Python: [backtesting](https://kernc.github.io/backtesting.py/) and [machine learning](https://scikit-learn.org/stable/) in financial markets 📈\
-C++: [MQL5](https://www.mql5.com/en), a language used in [MetaTrade5](https://www.metatrader5.com/) (See [/metatrade5-ea](https://github.com/maruk0chan/metatrade5-ea))
-- 🧗 Wanna explore Native App Development ([Swift](https://developer.apple.com/swift/)) and [Backend Development](https://roadmap.sh/backend) ([Node.js](https://nodejs.org/en) or [Go](https://go.dev/))
-
 ## 👱🏼‍♂️ Who am I?
 - 🚹 *Marco* (English) + *Chan* (Chinese 陳) = **maruk0chan** (Japanese)
 - 🇭🇰 From Hong Kong (currently staying in Tokyo 🇯🇵)
